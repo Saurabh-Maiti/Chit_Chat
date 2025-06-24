@@ -49,4 +49,4 @@ Watch the demo video here:
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/Saurabh-Maiti/Chit_Chat.git
+    https://github.com/Saurabh-Maiti/Chit_Chat.git
