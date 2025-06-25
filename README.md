@@ -50,3 +50,21 @@ Watch the demo video here:
 1. Clone the repo
    ```bash
     https://github.com/Saurabh-Maiti/Chit_Chat.git
+2. Open in Android Studio
+
+3. Connect Firebase
+
+4. Add your google-services.json file in the app/ directory
+
+5. Enable Authentication and Firestore in your Firebase console
+
+6. Build and Run
+
+7. Sync Gradle and run the app on an emulator or physical device
+---
+## 📌 Project Status
+🚧 Actively maintained. More features like image messaging, push notifications, and user profile customization are planned.
+
+---
+## 📬 Feedback & Contributions
+Feel free to open issues or submit pull requests to contribute. Feedback is welcome!
